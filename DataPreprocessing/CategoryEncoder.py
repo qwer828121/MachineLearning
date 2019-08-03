@@ -12,3 +12,7 @@ X = labelencoder_X.fit_transform(X)
 
 onehotencoder = OneHotEncoder(categorical_features = [0])
 X = onehotencoder.fit_transform(X).toarray()
+#非數字的話，需先LabelEncoder，在OneHotEncoder
+#替代方式
+import pandas as pd
+X = pd.get_dummies(X)
