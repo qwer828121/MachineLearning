@@ -7,7 +7,6 @@ Some codes related machine learning
 包含
 -資料前處理 DataPreprocessing  
 -特徵處理 FeatureProcessing  
--回歸類型 演算法 Regression
--分類類型 演算法 Classification
--分群類型 演算法 Clustering
-
+-回歸類型 演算法 Regression  
+-分類類型 演算法 Classification  
+-分群類型 演算法 Clustering  
