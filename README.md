@@ -1,6 +1,6 @@
 # MachineLearning
-Some codes related machine learning
-
+版本: Python 3.6  
+  
 存放關於機器學習的一些程式碼
 主要是套件的使用，而非演算法詳細程式
 
