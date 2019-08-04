@@ -1,6 +1,9 @@
 這此說明的特徵處理，包含兩部分  
 1.特徵萃取 Extraction  
+ -逐步迴歸StepwiseRegression  
+ -LASSO  
 2.特徵降維 Reduction  
+ -主成分分析PCA  
   
 差別為  
 萃取是從原本特徵中選取對演算法重要的特徵  
