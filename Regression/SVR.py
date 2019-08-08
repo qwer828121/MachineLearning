@@ -18,10 +18,10 @@ Y = scaler_Y.fit_transform(Y.reshape(-1,1))
 
 # SVR訓練
 from sklearn.svm import SVR
-regressor = SVR(kernel = 'rbf')
-regressor.fit(X, y)
+SVR_regressor = SVR(kernel = 'rbf')
+SVR_regressor.fit(X_train, Y)
 
 # SVR預測，預測完的Y記得轉換回來
 X_test = scaler_X.transform(X_test)
-y_pred = regressor.predict(X_test)
+y_pred = SVR_regressor.predict(X_test)
 y_pred = scaler_Y.inverse_transform(y_pred)
