@@ -6,7 +6,8 @@
 2.多項式迴歸 PolynomialRegression  
 3.支持向量迴歸 SVR  
 4.決策樹&隨機森林 DT_RF  
-5.XGboost  
+5.Ridge & ElasticNet  
+6.XGboost  
 
 另外判斷模型訓練好壞的指標Evaluate  
   
