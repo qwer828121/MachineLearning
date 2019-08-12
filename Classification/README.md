@@ -2,7 +2,7 @@
 離散型的分類皆包含，不過要看各個演算法是否可進行多元分類  
 包含  
   
-1.邏輯迴歸 LogisticRegression
+1.邏輯迴歸 LogisticRegression  
 2.K-Nearest Neightors (K-NN)  
 3.支持向量機 SVM  
 4.決策樹&隨機森林 DT_RF  
