@@ -21,4 +21,4 @@ KNNClassifier = KNeighborsClassifier(n_neighbors = 5)
 KNNClassifier.fit(X_train, y_train)
 
 # KNN預測
-y_pred = classifier.predict(X_test)
+y_pred = KNNClassifier.predict(X_test)
