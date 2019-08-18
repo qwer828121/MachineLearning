@@ -1,5 +1,6 @@
 '''
 Naive Bayes單純貝氏分類器
+理論說明，可參考:https://zhuanlan.zhihu.com/p/37575364
 二元跟多元分類 使用不同的function
 '''
 
