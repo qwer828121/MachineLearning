@@ -17,5 +17,5 @@ MSE = mean_squared_error(y_true,y_pred)
 
 #R-square
 from sklearn.metrics import r2_score
-R-square = 2_score(y, p(x))
+R-square = r2_score(y, p(x))
 
