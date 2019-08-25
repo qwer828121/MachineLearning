@@ -3,6 +3,9 @@
 代表Kmeans、Kmedoids
 需事先決定分群數量n_clusters
 下面代表Kmeans
+
+Kmedoids (sklearn套件沒有)
+可以參考https://github.com/SachinKalsi/kmedoids
 '''
 
 from sklearn.cluster import KMeans
