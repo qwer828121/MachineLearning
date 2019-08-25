@@ -4,7 +4,8 @@
 有以下四種類型  
 (前三種大致說明可以看這裡 https://ithelp.ithome.com.tw/articles/10193760)  
 (或是這裡 https://allanhsu83117.github.io/2018/09/clustering-with-R/)  
-(或是這裡https://zhuanlan.zhihu.com/p/37856153)  
+(或是這裡 https://zhuanlan.zhihu.com/p/37856153)  
+(或是這裡 http://www.rpubs.com/skydome20/R-Note9-Clustering)  
   
 1.分區分群(Partitioning)  
 --代表:Kmeans、Kmedoids  
