@@ -10,3 +10,4 @@
 -回歸類型 演算法 Regression  
 -分類類型 演算法 Classification  
 -分群類型 演算法 Clustering  
+-關聯規則 演算法 Association Rule  
