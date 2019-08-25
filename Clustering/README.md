@@ -15,3 +15,6 @@
 --代表:SOM
   
 另外判斷分群好壞的指標Evaluate  
+  
+**如果想使用非常詳細分群套件  
+**可以參考pyclustering https://pypi.org/project/pyclustering/  
